@@ -1,9 +1,6 @@
 # Pig-dice-game
 
-ExploreBloor is dedicated for people who like Bloor Street in Toronto
-Viter could registed, and post their favourite spot on Bloor street. They also can edit and delete the posts. All data store on MongoDB      
-Other loged in user can leave their comment under each post
-Validation and flash applied
+A sinmple but fun web page game developing by html/css/javascript.
 
 ![Screen Shot](./pig_game/pig-dice-game.png?raw=true "page of game")
 
