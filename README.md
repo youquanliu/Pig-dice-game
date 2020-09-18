@@ -2,7 +2,7 @@
 
 A sinmple but fun web page game developing by html/css/javascript.
 
-![Screen Shot](./pig_game/pig-dice-game.png?raw=true "page of game")
+![Screen Shot](./pig-dice-game.png?raw=true "page of game")
 
 
 ## Techologies Used
