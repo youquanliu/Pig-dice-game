@@ -15,7 +15,7 @@ A sinmple but fun web page game developing by html/css/javascript.
 
 ## Getting Started
 
-### Click to [view the page](https://youquanliu.github.io/Pig-dice-game)
+### Click to [view the page](https://youquanliu.github.io/Pig-dice-game/)
 
 
 ## GAME RULES:
