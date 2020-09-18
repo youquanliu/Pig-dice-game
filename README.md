@@ -5,7 +5,7 @@ Viter could registed, and post their favourite spot on Bloor street. They also c
 Other loged in user can leave their comment under each post
 Validation and flash applied
 
-![Screen Shot](./pig-dice-game.png?raw=true "page of game")
+![Screen Shot](./pig_game/pig-dice-game.png?raw=true "page of game")
 
 
 ## Techologies Used
